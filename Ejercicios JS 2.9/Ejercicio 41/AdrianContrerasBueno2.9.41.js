@@ -1,0 +1,2 @@
+let coleccion=new Set([10,20,30]); // A los set le podemos meter directamente los datos como un array y así nos ahorramos líneas
+console.log(coleccion.has(20) ? "Contiene el 20":"No contiene el 20"); //si usamos un ternario nos ahorramos el condicional
